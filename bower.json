@@ -1,0 +1,21 @@
+{
+  "name": "ng-window-modal",
+  "authors": [
+    "shridharkaushik29 <shridharkaushik29@gmail.com>"
+  ],
+  "description": "window modals for angularjs",
+  "main": "ng-window-modal.js",
+  "keywords": [
+    "window",
+    "modal"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
